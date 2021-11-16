@@ -1,19 +1,19 @@
 # Git Zero Trust
 
-#### Requirements :
+### Requirements :
 
 - cmake
 - conan
 
-#### Install dependencies
+### Install dependencies
 
 `conan install .`
 
-#### Pre-build
+### Pre-build
 
 `cmake .`
 
-#### Build
+### Build
 
 `make`
 
